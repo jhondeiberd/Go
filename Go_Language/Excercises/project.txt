@@ -1,0 +1,68 @@
+during our lectures about design patterns,we got introduced
+to builder and abstract factory.
+imagine a restaurant app. there are 2 families of products:
+sandwich and pizza. 
+so there will be different sandwishes such as 
+
+	BurgerVeggy
+	BurgerHealthy
+	BurgerChicken
+	BurgerHam
+	
+all 4 kinds of burger inherit from simple burger which is
+
+simpleBurger
+	bread
+	sauce
+	tomato
+	onion
+	
+there will also be pizza such as 
+	hawaiian (pineapple,ham)
+	meat pizza (ground beef,pepperoni)
+	vegeterian (tomato,mushroom)
+
+all pizza inheriat from 
+simplePizza
+	cheese
+	sauce
+
+remember, in an command, 
+we get to choose drinks and donuts too. 
+
+you give them some random prices.
+
+the app should start with a GUI (could be just command line)
+asking for the order. the order could consist of many sandwiches
+and many pizzas.
+
+now, you have 2 questions to develop:
+1) based on what you learned about builder and abstract 
+factory how would you combine these 2 design pattern to make
+your complete app design. for this part, the choice of language is yours.
+we want a fully working app.
+2)we saw the power of composition, interface and struct
+ in a typing language like GO.
+how would you design the same app in GO? 
+we want a fully working app.
+
+
+ProductPizza
+ProductBurger
+
+
+Do you like a Beverage?
+Console.WriteLine("Do you like a Beverage?);
+            Console.WriteLine("\t1- Water");
+            Console.WriteLine("\t2- Soda & Soft Drinks");
+            Console.WriteLine("\t3- No");
+
+water 2.5
+Soda & Soft Drinks 3.5
+Donuts 0.99
+fries  3.99
+
+Console.WriteLine("Do you like some Snacks or Sides?);
+            Console.WriteLine("\t1- Donuts");
+            Console.WriteLine("\t2- Fries");
+            Console.WriteLine("\t3- No");
