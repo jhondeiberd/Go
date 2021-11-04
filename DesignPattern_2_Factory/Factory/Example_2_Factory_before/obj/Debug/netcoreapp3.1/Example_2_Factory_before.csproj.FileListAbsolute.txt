@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.exe
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.deps.json
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.runtimeconfig.json
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.runtimeconfig.dev.json
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.dll
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.pdb
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.AssemblyInfo.cs
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.dll
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.pdb
+C:\Users\User\source\repos\Example_1_Factory_before\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.genruntimeconfig.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.exe
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.deps.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.runtimeconfig.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.runtimeconfig.dev.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\bin\Debug\netcoreapp3.1\Example_2_Factory_before.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.csprojAssemblyReference.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.AssemblyInfoInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.AssemblyInfo.cs
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.csproj.CoreCompileInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_2_Factory\Factory\Example_2_Factory_before\obj\Debug\netcoreapp3.1\Example_2_Factory_before.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\User\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\today\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\DesignPattern_3_AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.exe
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.deps.json
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.runtimeconfig.json
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.runtimeconfig.dev.json
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.dll
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.pdb
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.AssemblyInfo.cs
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.dll
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.pdb
+C:\Users\User\source\repos\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.genruntimeconfig.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.exe
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.deps.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.runtimeconfig.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.runtimeconfig.dev.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\bin\Debug\netcoreapp3.1\PizzaBefore.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.csprojAssemblyReference.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.AssemblyInfoInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.AssemblyInfo.cs
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.csproj.CoreCompileInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\PizzaBefore\PizzaBefore\obj\Debug\netcoreapp3.1\PizzaBefore.genruntimeconfig.cache

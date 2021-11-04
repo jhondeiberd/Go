@@ -1,0 +1,54 @@
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.exe
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.deps.json
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.json
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.dev.json
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfo.cs
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\source\repos\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.genruntimeconfig.cache
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.exe
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.deps.json
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.json
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.dev.json
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfo.cs
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\Downloads\2020-09-11\2020-09-11\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.genruntimeconfig.cache
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.exe
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.deps.json
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.json
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.dev.json
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfo.cs
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\User\Downloads\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.genruntimeconfig.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.exe
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.deps.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.dev.json
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csprojAssemblyReference.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfo.cs
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.dll
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.pdb
+C:\Users\isi\OneDrive - Institut supérieur d'informatique\Program\9 Advance html\Material\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.genruntimeconfig.cache

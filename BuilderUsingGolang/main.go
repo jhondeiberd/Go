@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Piza")
+
 	fmt.Println("---------------------Pizza---------------------")
 	veggyBuilderPizza := PizzaBuilder.GetBuilder("veggy")
 	hawaiianBuilderPizza := PizzaBuilder.GetBuilder("hawaiian")
