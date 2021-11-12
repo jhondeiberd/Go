@@ -1,1 +1,7 @@
-Para ejecutar solo se tiene que dar compilar sobre el archivo .html
+Para ejecutar
+1. Se selecciona toda la carpeta y se trabajo con visual code
+2. se ubica sobre el archivo main.go
+3. clic derecho -- new terminal
+4. se escribre go run main.go y enter
+	si tiene algun error de compilacion no ejecutara
+5. Abrir en un explorador de internet la ruta, en este caso localhost:8080/
