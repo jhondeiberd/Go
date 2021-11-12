@@ -3,8 +3,8 @@ package main
 import (
 	"html/template"
 	"log"
-	"myapp/rps"
 	"net/http"
+	"rps"
 )
 
 func homePage(w http.ResponseWriter, r *http.Request) {
